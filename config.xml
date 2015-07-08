@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>	<widget xmlns = "http://www.w3.org/ns/widgets"		xmlns:gap = "http://phonegap.com/ns/1.0"		id        = "com.cne.voto"		versionCode="1.0"		version   = "1.0">		<name>Delegados</name>		<description>Delegados de la Nacional Electoral 
+<?xml version="1.0" encoding="UTF-8"?>	<widget xmlns = "http://www.w3.org/ns/widgets"		xmlns:gap = "http://phonegap.com/ns/1.0"		id        = "com.cne.delegados"		versionCode="1.0"		version   = "1.0">		<name>Delegados</name>		<description>Delegados de la Justicia Nacional Electoral 
 Elecciones 2015 
 Version 1.0
 Cámara Nacional Electoral
